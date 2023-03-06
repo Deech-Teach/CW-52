@@ -13,6 +13,12 @@ h1{
 }
 
 
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
 .grid{
     display: flex;
     flex-wrap: wrap;
